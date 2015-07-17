@@ -1,1 +1,2 @@
 Hi! My name is Dorota. I'm doing a co-op at the Boutros Lab, OICR.
+I work on mutation calling in NGS data.
